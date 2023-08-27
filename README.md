@@ -1,4 +1,4 @@
-Sparkathon Project-FarmEZ  <br>
+Startathon Project-FarmEZ  <br>
 Team Name- DTG  <br>
 Quine Widgets:  <br>
 [![DTGforGoods's GitHub | Dependencies](https://stats.quine.sh/DTGforGoods/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DTGforGoods)
